@@ -192,4 +192,4 @@ if __name__ == '__main__':
     # print sorted(fits_pops)[-1][1]
 
     # print list(sorted(fits_pops))[-1][1]
-    GeneticAlgorithm(CrackDigits(11223344556677889900)).run()
+    GeneticAlgorithm(CrackDigits('0813873280')).run()
